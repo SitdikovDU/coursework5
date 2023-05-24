@@ -1,0 +1,8 @@
+,Date,Object,Column_1,Column_2,Column_3,Column_4,Column_5,Column_6,Confidence_1,Confidence_2,Confidence_3,Confidence_4,Confidence_5,Confidence_6,Regression_2,Regression_3,Regression_5,Regression_6,Source,Row,Empty,CR
+253029,1898-09-07,Sunspot,9.8,-77.4,77.0,11.3,78.3,211.1,1.0,1.0,1.0,1.0,1.0,1.0,False,False,False,False,Z1893-1898_Page_2108,28,False,601.2560206547098
+253030,1898-09-07,Sunspot,-18.9,22.6,337.0,-12.5,337.8,110.6,1.0,1.0,1.0,1.0,1.0,1.0,False,False,False,False,Z1893-1898_Page_2108,29,False,601.2560206547098
+253031,1898-09-07,Sunspot,-16.4,25.2,334.4,-10.1,335.1,107.9,1.0,1.0,1.0,1.0,1.0,1.0,False,False,False,False,Z1893-1898_Page_2108,30,False,601.2560206547098
+253032,1898-09-07,Sunspot,-15.6,29.7,329.9,-9.5,330.7,103.5,1.0,1.0,1.0,1.0,1.0,1.0,False,False,False,False,Z1893-1898_Page_2108,31,False,601.2560206547098
+253033,1898-09-07,Sunspot,-16.4,34.0,325.6,-10.0,236.3,99.1,0.98,1.0,1.0,0.89,0.92,0.92,False,False,True,False,Z1893-1898_Page_2108,32,False,601.2560206547098
+253034,1898-09-07,Sunspot,3.0,34.0,325.6,8.8,325.2,98.0,1.0,1.0,1.0,1.0,1.0,1.0,False,False,False,False,Z1893-1898_Page_2108,33,False,601.2560206547098
+253035,1898-09-07,Sunspot,2.7,35.6,324.0,8.3,323.8,96.6,1.0,1.0,1.0,1.0,1.0,1.0,False,False,False,False,Z1893-1898_Page_2108,34,False,601.2560206547098

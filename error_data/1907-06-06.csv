@@ -1,0 +1,8 @@
+,Date,Object,Column_1,Column_2,Column_3,Column_4,Column_5,Column_6,Confidence_1,Confidence_2,Confidence_3,Confidence_4,Confidence_5,Confidence_6,Regression_2,Regression_3,Regression_5,Regression_6,Source,Row,Empty,CR
+410697,1907-06-06,Sunspot,25.0,25.0,244.3,-18.3,245.0,284.0,0.32,1.0,1.0,0.12,1.0,1.0,False,False,False,False,Z1906-1910_Page_0806,20,False,718.3146963190297
+410698,1907-06-06,Sunspot,8.3,22.9,246.4,-15.5,198.4,237.4,1.0,1.0,1.0,1.0,1.0,1.0,False,False,False,False,Z1906-1910_Page_0806,21,False,718.3146963190297
+410699,1907-06-06,Sunspot,28.3,88.3,181.0,-9.8,282.9,221.9,0.05,0.37,0.37,0.14,1.0,1.0,True,False,False,False,Z1906-1910_Page_0806,22,False,718.3146963190297
+410700,1907-06-06,Sunspot,28.9,88.8,180.5,-9.8,281.8,220.8,1.0,0.18,1.0,1.0,1.0,1.0,True,False,False,False,Z1906-1910_Page_0806,23,False,718.3146963190297
+410701,1907-06-06,Sunspot,24.0,29.0,240.3,-9.9,280.8,219.8,0.05,0.14,0.14,0.16,1.0,1.0,False,True,False,False,Z1906-1910_Page_0806,24,False,718.3146963190297
+410702,1907-06-06,Sunspot,26.1,56.4,212.9,-12.0,213.5,152.5,0.19,1.0,1.0,0.05,1.0,1.0,False,False,False,False,Z1906-1910_Page_0806,25,False,718.3146963190297
+410703,1907-06-06,Sunspot,24.3,61.0,208.3,-10.4,208.7,147.7,0.16,1.0,1.0,0.07,1.0,1.0,False,False,False,False,Z1906-1910_Page_0806,26,False,718.3146963190297

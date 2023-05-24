@@ -1,0 +1,5 @@
+,Date,Object,Column_1,Column_2,Column_3,Column_4,Column_5,Column_6,Confidence_1,Confidence_2,Confidence_3,Confidence_4,Confidence_5,Confidence_6,Regression_2,Regression_3,Regression_5,Regression_6,Source,Row,Empty,CR
+20649,1900-10-11,Sunspot,-3.8,-65.5,98.1,-4.8,97.5,129.1,0.95,1.0,1.0,0.9,0.89,0.51,False,False,False,False,Z1899-1902_Page_323,19,False,629.2667202686374
+20650,1900-10-11,Sunspot,-3.7,-61.0,93.6,-4.2,98.0,124.6,0.99,1.0,1.0,0.82,0.45,0.15,False,False,False,False,Z1899-1902_Page_323,20,False,629.2667202686374
+20651,1900-10-11,Sunspot,-3.8,-57.8,90.4,-3.8,89.8,121.4,0.98,1.0,1.0,0.96,0.88,0.19,False,False,False,False,Z1899-1902_Page_323,21,False,629.2667202686374
+20653,1900-10-11,Sunspot,-4.0,-54.8,87.4,-3.4,86.9,118.5,0.99,1.0,1.0,0.92,0.93,0.35,False,False,False,False,Z1899-1902_Page_323,23,False,629.2667202686374

@@ -1,0 +1,11 @@
+,Date,Object,Column_1,Column_2,Column_3,Column_4,Column_5,Column_6,Confidence_1,Confidence_2,Confidence_3,Confidence_4,Confidence_5,Confidence_6,Regression_2,Regression_3,Regression_5,Regression_6,Source,Row,Empty,CR
+224713,1897-01-01,Sunspot,-6.4,-83.0,199.4,-12.9,199.8,88.6,1.0,1.0,1.0,1.0,1.0,1.0,False,False,False,False,Z1893-1898_Page_1665,1,False,578.7404974390154
+224714,1897-01-01,Sunspot,-14.0,-12.8,129.2,-18.3,127.6,16.4,1.0,1.0,1.0,1.0,1.0,1.0,False,False,False,False,Z1893-1898_Page_1665,2,False,578.7404974390154
+224715,1897-01-01,Sunspot,-14.2,-9.0,125.4,-18.1,123.7,12.5,1.0,1.0,1.0,1.0,1.0,1.0,False,False,False,False,Z1893-1898_Page_1665,3,False,578.7404974390154
+224716,1897-01-01,Sunspot,-14.0,35.3,81.1,-12.8,79.5,328.3,1.0,1.0,1.0,1.0,1.0,1.0,False,False,False,False,Z1893-1898_Page_1665,4,False,578.7404974390154
+224717,1897-01-01,Sunspot,-13.0,38.0,78.4,-11.5,76.9,325.7,1.0,1.0,1.0,1.0,1.0,1.0,False,False,False,False,Z1893-1898_Page_1665,5,False,578.7404974390154
+224718,1897-01-01,Sunspot,-14.1,40.0,76.4,-12.3,74.8,323.6,1.0,1.0,1.0,0.93,1.0,1.0,False,False,False,False,Z1893-1898_Page_1665,6,False,578.7404974390154
+224719,1897-01-01,Sunspot,-16.3,44.7,71.7,-14.0,70.0,318.8,1.0,1.0,1.0,1.0,1.0,1.0,False,False,False,False,Z1893-1898_Page_1665,7,False,578.7404974390154
+224720,1897-01-01,Sunspot,-0.4,38.3,78.1,1.1,78.1,326.9,0.98,1.0,1.0,0.99,1.0,1.0,False,False,False,False,Z1893-1898_Page_1665,8,False,578.7404974390154
+224721,1897-01-01,Sunspot,-7.5,52.0,64.4,-4.4,63.7,312.5,1.0,1.0,1.0,1.0,1.0,1.0,False,False,False,False,Z1893-1898_Page_1665,9,False,578.7404974390154
+224722,1897-01-01,Sunspot,-11.2,64.0,52.4,-6.9,51.6,300.4,1.0,1.0,1.0,1.0,1.0,1.0,False,False,False,False,Z1893-1898_Page_1665,10,False,578.7404974390154
